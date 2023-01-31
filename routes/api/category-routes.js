@@ -21,7 +21,7 @@ router.get('/:id', async (req, res) => {
     });
 
     if (!categoryData) {
-      res.status(404).json({ message: ' Cannot find the Product You are looking for'});
+      res.status(404).json({ message: ' Cannot find the Category You are looking for'});
       return;
   }
 
@@ -71,7 +71,7 @@ router.delete('/:id', async (req, res) => {
     });
     
     if (!categoryData) {
-      res.status(404).json({ message: 'No product found with that id!' });
+      res.status(404).json({ message: 'No category found with that id!' });
       return;
     }
 
