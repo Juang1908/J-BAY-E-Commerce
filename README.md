@@ -45,7 +45,9 @@ Repo Link: https://github.com/Juang1908/J-BAY-E-Commerce
 
 ### Screenshot:
 Video Link:
-[J-BAY-E-COMMERCE.webm]
+[J-BAY-E-COMMERCE.webm](https://user-images.githubusercontent.com/112872430/216465913-c8cffd95-b208-4bf6-9e48-d02b88c2897a.webm)
+
+![Screenshot 1](https://user-images.githubusercontent.com/112872430/216466027-2464e7e9-9b64-4d2c-92a8-5b89c43ae85b.jpg)
 
 ### Questions? E-mail
 
